@@ -6,5 +6,5 @@ Slides - https://docs.google.com/presentation/d/1JlhqzahXgbgHELcREemg3ezEBUL79GB
 
 Notebook - https://ifood-prod-main.cloud.databricks.com/editor/notebooks/1328165235972700?o=2130186576916059#command/1328165236119763
 
-Para a avaliação de qualidade de dados eu utilizei a ferramenta de Data Profile do Databricks, e deixei no notebook as observações se foi necessaria alguma ação, ou não.
+Para a avaliação de qualidade de dados eu utilizei a ferramenta de Data Profile do Databricks, e deixei no notebook as observações se foi necessaria alguma ação, como por exemplo, tratar outlier, presença de Ids Nulls e executando os CMDs na sequência quando necessario.
 # CaseiFood
